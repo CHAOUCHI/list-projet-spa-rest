@@ -1,7 +1,8 @@
 # InfiniteCode Exemples
-Une application qui permet de voir des exemples de code en fonction d'un sujet.
 
-- Appli type TikTok "infinite scroll"
+Une application qui permet de scroller des exemples de code en fonction d'un sujet.
+
+- Appli type "infinite scroll"
 
 ## Stack
 

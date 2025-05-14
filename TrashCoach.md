@@ -1,8 +1,8 @@
 # TrashCoach
 
-Notez vos echecs et réussite de la vie.
+Notez vos échecs et réussite quotidienne.
 
-Vous recevez une notif(mail,sms, notif push, peu importe) qui 
+Vous recevez une notif (mail,sms, notif push, peu importe) qui 
 - vous trashTalk 
 - ou vous encourage en fonction de votre ratio d'echec / réussite.
 
