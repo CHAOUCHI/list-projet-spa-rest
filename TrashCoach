@@ -1,0 +1,12 @@
+# TrashCoach
+
+Notez vos echecs et réussite de la vie.
+
+Vous recevez une notif(mail,sms, notif push, peu importe) qui 
+- vous trashTalk 
+- ou vous encourage en fonction de votre ratio d'echec / réussite.
+
+## Stack
+
+- Libre mais architecture SPA / ApiREST.
+- Persitance de données SQL
